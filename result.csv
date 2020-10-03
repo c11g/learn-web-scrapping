@@ -1,0 +1,181 @@
+title,date,link
+What are third-party origin trials?,"Oct 1, 2020",https://web.dev/third-party-origin-trials/
+Declarative Shadow DOM,"Sep 30, 2020",https://web.dev/declarative-shadow-dom/
+How Goibibo's PWA improved conversions by 60%,"Sep 29, 2020",https://web.dev/goibibo/
+Detached window memory leaks,"Sep 29, 2020",https://web.dev/detached-window-memory-leaks/
+Content delivery networks (CDNs),"Sep 22, 2020",https://web.dev/content-delivery-networks/
+How Mercado Libre optimized for Web Vitals (TBT/FID),"Sep 21, 2020",https://web.dev/how-mercadolibre-optimized-web-vitals/
+Connecting to uncommon HID devices,"Sep 15, 2020",https://web.dev/hid/
+Managing several displays with the Multi-Screen Window Placement API,"Sep 14, 2020",https://web.dev/multi-screen-window-placement/
+How to use CSS masking,"Sep 14, 2020",https://web.dev/css-masking/
+How to use CSS clipping,"Sep 14, 2020",https://web.dev/css-clipping/
+Introducing <model-viewer> 1.1,"Sep 3, 2020",https://web.dev/introducing-model-viewer/
+Custom bullets with CSS ::marker,"Sep 2, 2020",https://web.dev/css-marker-pseudo-element/
+Help users change passwords easily by adding a well-known URL for changing passwords,"Sep 1, 2020",https://web.dev/change-password-url/
+Use advanced typography with local fonts,"Aug 24, 2020",https://web.dev/local-fonts/
+ARIA: poison or antidote?,"Aug 18, 2020",https://web.dev/aria-poison-or-antidote/
+Debugging memory leaks in WebAssembly using Emscripten,"Aug 13, 2020",https://web.dev/webassembly-memory-debugging/
+Read and write from a serial port,"Aug 12, 2020",https://web.dev/serial/
+content-visibility: the new CSS property that boosts your rendering performance,"Aug 5, 2020",https://web.dev/content-visibility/
+Unblocking clipboard access,"Jul 31, 2020",https://web.dev/async-clipboard/
+Web on Android,"Jul 30, 2020",https://web.dev/web-on-android/
+Referer and Referrer-Policy best practices,"Jul 30, 2020",https://web.dev/referrer-best-practices/
+"Building a PWA at Google, part 1","Jul 29, 2020",https://web.dev/building-a-pwa-at-google-part-1/
+Capture Keys with the Keyboard Lock API,"Jul 28, 2020",https://web.dev/keyboard-lock/
+Performance monitoring with Lighthouse CI,"Jul 27, 2020",https://web.dev/lighthouse-ci/
+Reading and writing files and directories with the browser-nativefs library,"Jul 27, 2020",https://web.dev/browser-nativefs/
+It's time to lazy-load offscreen iframes!,"Jul 24, 2020",https://web.dev/iframe-lazy-loading/
+Human interface devices on the web: a few quick examples,"Jul 22, 2020",https://web.dev/hid-examples/
+Streaming requests with the fetch API,"Jul 22, 2020",https://web.dev/fetch-upload-streaming/
+@property: giving superpowers to CSS variables,"Jul 21, 2020",https://web.dev/at-property/
+Service worker caching and HTTP caching,"Jul 17, 2020",https://web.dev/service-worker-caching-and-http-caching/
+Web-based payment apps overview,"Jul 17, 2020",https://web.dev/web-based-payment-apps-overview/
+Relating site speed and business metrics,"Jul 17, 2020",https://web.dev/site-speed-and-business-metrics/
+Handling navigation requests,"Jul 13, 2020",https://web.dev/handling-navigation-requests/
+Ten modern layouts in one line of CSS,"Jul 7, 2020",https://web.dev/one-line-layouts/
+Pixel-perfect rendering with devicePixelContentBox,"Jul 7, 2020",https://web.dev/device-pixel-content-box/
+web.dev LIVE wrap-up,"Jul 6, 2020",https://web.dev/live-wrap-up/
+Sign-in form best practices,"Jun 29, 2020",https://web.dev/sign-in-form-best-practices/
+Perform efficient per-video-frame operations on video with requestVideoFrameCallback(),"Jun 29, 2020",https://web.dev/requestvideoframecallback-rvfc/
+Progressively enhance your Progressive Web App,"Jun 29, 2020",https://web.dev/progressively-enhance-your-pwa/
+Choose the best build tool for your project with tooling.report,"Jun 29, 2020",https://web.dev/introducing-tooling-report/
+Using the Chrome UX Report API,"Jun 25, 2020",https://web.dev/chrome-ux-report-api/
+Improving user privacy and developer experience with User-Agent Client Hints,"Jun 25, 2020",https://web.dev/user-agent-client-hints/
+Web developer tools for debugging JavaScript issues in Google Search,"Jun 25, 2020",https://web.dev/google-search-tools/
+Milliseconds make millions,"Jun 24, 2020",https://web.dev/milliseconds-make-millions/
+Resilient search experiences,"Jun 23, 2020",https://web.dev/resilient-search-experiences/
+Instant navigation experiences,"Jun 23, 2020",https://web.dev/instant-navigation-experiences/
+App shell UX with service workers and streams,"Jun 23, 2020",https://web.dev/app-shell-ux-with-service-workers/
+Adaptive loading with service workers,"Jun 23, 2020",https://web.dev/adaptive-loading-with-service-workers/
+Using the CrUX Dashboard on Data Studio,"Jun 22, 2020",https://web.dev/chrome-ux-report-data-studio-dashboard/
+Getting started with Trust Tokens,"Jun 22, 2020",https://web.dev/trust-tokens/
+Getting started with Chrome's origin trials,"Jun 22, 2020",https://web.dev/origin-trials/
+Boldly link where no one has linked before: Text Fragments,"Jun 17, 2020",https://web.dev/text-fragments/
+How to file a good browser bug,"Jun 15, 2020",https://web.dev/how-to-file-a-good-bug/
+Experimenting with QuicTransport,"Jun 8, 2020",https://web.dev/quictransport/
+Protect your resources from web attacks with Fetch Metadata,"Jun 4, 2020",https://web.dev/fetch-metadata/
+Tools to measure Core Web Vitals,"May 28, 2020",https://web.dev/vitals-tools/
+Web Animations API improvements in Chromium 84,"May 27, 2020",https://web.dev/web-animations/
+Getting started with measuring Web Vitals,"May 27, 2020",https://web.dev/vitals-measurement-getting-started/
+Best practices for measuring Web Vitals in the field,"May 27, 2020",https://web.dev/vitals-field-measurement-best-practices/
+Empowering payment apps with Web Payments,"May 25, 2020",https://web.dev/empowering-payment-apps-with-web-payments/
+Android payment app developers guide,"May 25, 2020",https://web.dev/android-payment-apps-developers-guide/
+More variable font options for the macOS system-ui font in Chromium 83,"May 21, 2020",https://web.dev/more-variable-font-options-in-chromium-83/
+Defining the Core Web Vitals metrics thresholds,"May 21, 2020",https://web.dev/defining-core-web-vitals-thresholds/
+Get things done quickly with app shortcuts,"May 20, 2020",https://web.dev/app-shortcuts/
+What's New in Lighthouse 6.0,"May 19, 2020",https://web.dev/lighthouse-whats-new-6.0/
+Wake Lock API case study: 300% increase in purchase intent indicators on BettyCrocker.com,"May 19, 2020",https://web.dev/betty-crocker/
+Detect inactive users with the Idle Detection API,"May 18, 2020",https://web.dev/idle-detection/
+Preparing for AppCache removal,"May 18, 2020",https://web.dev/appcache-removal/
+Persistent storage,"May 12, 2020",https://web.dev/persistent-storage/
+How CommonJS is making your bundles larger,"May 8, 2020",https://web.dev/commonjs-larger-bundles/
+Optimize Largest Contentful Paint,"May 5, 2020",https://web.dev/optimize-lcp/
+Optimize First Input Delay,"May 5, 2020",https://web.dev/optimize-fid/
+Optimize Cumulative Layout Shift,"May 5, 2020",https://web.dev/optimize-cls/
+"Why you need ""cross-origin isolated"" for powerful features","May 4, 2020",https://web.dev/why-coop-coep/
+Profiling Web Audio apps in Chrome,"May 4, 2020",https://web.dev/profiling-web-audio-apps-in-chrome/
+Improved Next.js and Gatsby page load performance with granular chunking,"Apr 29, 2020",https://web.dev/granular-chunking-nextjs/
+Storage for the web,"Apr 27, 2020",https://web.dev/storage-for-the-web/
+Monitor your web page's total memory usage with measureMemory(),"Apr 13, 2020",https://web.dev/monitor-total-page-memory-usage/
+"Making your website ""cross-origin isolated"" using COOP and COEP","Apr 13, 2020",https://web.dev/coop-coep/
+web.dev engineering blog #1: How we build the site and use Web Components,"Apr 9, 2020",https://web.dev/how-we-build-webdev-and-use-web-components/
+Digging into the Privacy Sandbox,"Apr 8, 2020",https://web.dev/digging-into-the-privacy-sandbox/
+Improved dark mode default styling with the color-scheme CSS property and the corresponding meta tag,"Apr 8, 2020",https://web.dev/color-scheme/
+Ensure your website is available and usable for everyone during COVID-19,"Apr 3, 2020",https://web.dev/covid19/
+Fix an overloaded server,"Mar 31, 2020",https://web.dev/overloaded-server/
+WebSocketStream: integrating streams with the WebSocket API,"Mar 27, 2020",https://web.dev/websocketstream/
+Prevent DOM-based cross-site scripting vulnerabilities with Trusted Types,"Mar 25, 2020",https://web.dev/trusted-types/
+Prevent layout shifting and flashes of invisibile text (FOIT) by preloading optional fonts,"Mar 18, 2020",https://web.dev/preload-optional-fonts/
+How to set up Signed HTTP Exchanges (SXG) using nginx,"Mar 11, 2020",https://web.dev/how-to-set-up-signed-http-exchanges/
+How to distribute Signed HTTP Exchanges (SXG) using nginx,"Mar 11, 2020",https://web.dev/how-to-distribute-signed-http-exchanges/
+Customize media notifications and playback controls with the Media Session API,"Mar 6, 2020",https://web.dev/media-session/
+How Google improved ads performance with stale-while-revalidate,"Mar 5, 2020",https://web.dev/ads-case-study-stale-while-revalidate/
+Scroll snapping after layout changes,"Feb 22, 2020",https://web.dev/snap-after-layout/
+Augmented reality: You may already know it,"Feb 13, 2020",https://web.dev/web-ar/
+"Virtual reality comes to the web, part II","Feb 13, 2020",https://web.dev/vr-comes-to-the-web-pt-ii/
+Positioning virtual objects in real-world views,"Feb 13, 2020",https://web.dev/ar-hit-test/
+Interact with NFC devices on Chrome for Android,"Feb 12, 2020",https://web.dev/nfc/
+Shopping for speed on eBay.com,"Jan 22, 2020",https://web.dev/shopping-for-speed-on-ebay/
+Advancing the web framework ecosystem,"Jan 8, 2020",https://web.dev/advancing-framework-ecosystem-cds-2019/
+Integrate PWAs into built-in sharing UIs with Workbox,"Dec 19, 2019",https://web.dev/workbox-share-targets/
+Adaptive icon support in PWAs with maskable icons,"Dec 19, 2019",https://web.dev/maskable-icon/
+Improving page dismissal in synchronous XMLHttpRequest(),"Dec 18, 2019",https://web.dev/disallow-synchronous-xhr/
+Threading the web with module workers,"Dec 17, 2019",https://web.dev/module-workers/
+Speed tooling evolutions: highlights from Chrome Developer Summit 2019,"Dec 16, 2019",https://web.dev/speed-tooling-evolutions-cds-2019/
+"Lighthouse evolution: continuous integration, new performance score formula, and more","Dec 16, 2019",https://web.dev/lighthouse-evolution-cds-2019/
+Adaptive loading: improving web performance on slow devices,"Dec 16, 2019",https://web.dev/adaptive-loading-cds-2019/
+Indexing your offline-capable pages with the Content Indexing API,"Dec 12, 2019",https://web.dev/content-indexing-api/
+Accessibility tips for web developers,"Dec 6, 2019",https://web.dev/a11y-tips-for-web-dev/
+Use web workers to run JavaScript off the browser's main thread,"Dec 5, 2019",https://web.dev/off-main-thread/
+Next-generation web styling,"Dec 5, 2019",https://web.dev/next-gen-css-2019/
+Feedback from the summer 2019 image optimization survey,"Nov 22, 2019",https://web.dev/image-optimization-survey-2019/
+Get started with Web Bundles,"Nov 11, 2019",https://web.dev/web-bundles/
+Richer offline experiences with the Periodic Background Sync API,"Nov 10, 2019",https://web.dev/periodic-background-sync/
+Integrate with the OS sharing UI with the Web Share API,"Nov 8, 2019",https://web.dev/web-share/
+Receiving shared data with the Web Share Target API,"Nov 8, 2019",https://web.dev/web-share-target/
+OYO Lite: a TWA with the best of web and Android apps,"Nov 7, 2019",https://web.dev/oyo-lite-twa/
+Five ways AirSHIFT improved their React app's runtime performance,"Nov 6, 2019",https://web.dev/five-ways-airshift-improved-their-react-app/
+Virtual reality comes to the web,"Oct 31, 2019",https://web.dev/vr-comes-to-the-web/
+SameSite cookie recipes,"Oct 30, 2019",https://web.dev/samesite-cookie-recipes/
+Fast ads matter,"Oct 29, 2019",https://web.dev/fast-ads-matter/
+Notification Triggers,"Oct 24, 2019",https://web.dev/notification-triggers/
+Verify phone numbers on the web with the Web OTP API,"Oct 7, 2019",https://web.dev/web-otp/
+Preloading responsive images,"Sep 30, 2019",https://web.dev/preload-responsive-images/
+Fixing layout instability,"Sep 30, 2019",https://web.dev/fixing-layout-instability/
+Optimize images with Thumbor,"Sep 23, 2019",https://web.dev/use-thumbor/
+"Techniques to make a web app load fast, even on a feature phone","Sep 23, 2019",https://web.dev/load-faster-like-proxx/
+Smarter custom properties with Houdini’s new API,"Sep 19, 2019",https://web.dev/css-props-and-vals/
+Prefetch resources to speed up future navigations,"Sep 12, 2019",https://web.dev/link-prefetch/
+Going beyond images with basic video for the web,"Sep 3, 2019",https://web.dev/video-basics/
+Know your code health with the ReportingObserver API,"Aug 21, 2019",https://web.dev/reporting-observer/
+Ready Player Web,"Aug 21, 2019",https://web.dev/ready-player-web/
+The File System Access API: simplifying access to local files,"Aug 20, 2019",https://web.dev/file-system-access/
+Progressive Web Apps in multi-origin sites,"Aug 19, 2019",https://web.dev/multi-origin-pwas/
+How Truebil made the web its channel of growth,"Aug 16, 2019",https://web.dev/truebil-lite/
+How to install the Thumbor image CDN,"Aug 14, 2019",https://web.dev/install-thumbor/
+Third-party JavaScript performance,"Aug 13, 2019",https://web.dev/third-party-javascript/
+More capable form controls,"Aug 8, 2019",https://web.dev/more-capable-form-controls/
+A contact picker for the web,"Aug 7, 2019",https://web.dev/contact-picker/
+Browser-level image lazy-loading for the web,"Aug 6, 2019",https://web.dev/browser-level-image-lazy-loading/
+Establish network connections early to improve perceived page speed,"Jul 30, 2019",https://web.dev/preconnect-and-dns-prefetch/
+Create OS-style backgrounds with backdrop-filter,"Jul 26, 2019",https://web.dev/backdrop-filter/
+Keeping things fresh with stale-while-revalidate,"Jul 18, 2019",https://web.dev/stale-while-revalidate/
+Faster web navigation with predictive prefetching,"Jul 8, 2019",https://web.dev/predictive-prefetching/
+How OpenSooq increased engagement by investing in the web,"Jul 3, 2019",https://web.dev/opensooq-case-study/
+"prefers-color-scheme: Hello darkness, my old friend","Jun 27, 2019",https://web.dev/prefers-color-scheme/
+Top tips for web performance,"Jun 24, 2019",https://web.dev/use-srcset-to-automatically-choose-the-right-image/
+Bringing service workers to Google Search,"Jun 20, 2019",https://web.dev/google-search-sw/
+How we're bringing Google Earth to the web,"Jun 20, 2019",https://web.dev/earth-webassembly/
+Web components: the secret ingredient helping power the web,"Jun 18, 2019",https://web.dev/web-components-io-2019/
+Use Lighthouse for performance budgets,"Jun 14, 2019",https://web.dev/use-lighthouse-for-performance-budgets/
+The value of speed,"Jun 13, 2019",https://web.dev/value-of-speed/
+Updates to the Web Payments APIs,"Jun 13, 2019",https://web.dev/web-payments-updates/
+How YouTube improved video performance with the Media Capabilities API,"Jun 12, 2019",https://web.dev/youtube-media-capabilities/
+How can performance improve conversion?,"Jun 11, 2019",https://web.dev/how-can-performance-improve-conversion/
+Making JavaScript and Google Search work together,"Jun 5, 2019",https://web.dev/javascript-and-google-search-io-2019/
+Service worker mindset,"Jun 4, 2019",https://web.dev/service-worker-mindset/
+What should you measure to improve performance?,"May 31, 2019",https://web.dev/what-should-you-measure-to-improve-performance/
+Image policies for fast load times and more,"May 31, 2019",https://web.dev/image-policies/
+Extract critical CSS,"May 29, 2019",https://web.dev/extract-critical-css/
+Are long JavaScript tasks delaying your Time to Interactive?,"May 29, 2019",https://web.dev/long-tasks-devtools/
+Speed at scale: what's new in web performance?,"May 24, 2019",https://web.dev/speed-at-scale/
+Introducing PROXX,"May 9, 2019",https://web.dev/proxx-announce/
+SameSite cookies explained,"May 7, 2019",https://web.dev/samesite-cookies-explained/
+Visual searching with the Web Perception Toolkit,"May 7, 2019",https://web.dev/perception-toolkit/
+Hands-on with Portals: seamless navigation on the web,"May 6, 2019",https://web.dev/hands-on-portals/
+How to report metrics and build a performance culture,"May 5, 2019",https://web.dev/how-to-report-metrics/
+web.dev at I/O 2019,"May 4, 2019",https://web.dev/web-dev-io-2019/
+prefers-reduced-motion: Sometimes less movement is more,"Mar 11, 2019",https://web.dev/prefers-reduced-motion/
+Responsive web design basics,"Feb 12, 2019",https://web.dev/responsive-web-design-basics/
+The <model-viewer> web component,"Feb 6, 2019",https://web.dev/model-viewer/
+"The Shape Detection API: a picture is worth a thousand words, faces, and barcodes","Jan 7, 2019",https://web.dev/shape-detection/
+Is your app installed? getInstalledRelatedApps() will tell you!,"Dec 20, 2018",https://web.dev/get-installed-related-apps/
+Stay awake with the Screen Wake Lock API,"Dec 18, 2018",https://web.dev/wake-lock/
+Badging for app icons,"Dec 11, 2018",https://web.dev/badging-api/
+New capabilities status,"Nov 12, 2018",https://web.dev/fugu-status/
+Discover performance opportunities with Lighthouse,"Nov 5, 2018",https://web.dev/discover-performance-opportunities-with-lighthouse/
+Introduction to variable fonts on the web,"Feb 19, 2018",https://web.dev/variable-fonts/
+The Cache API: A quick guide,"Oct 3, 2017",https://web.dev/cache-api-quick-guide/
+ResizeObserver: it’s like document.onresize for elements,"Oct 7, 2016",https://web.dev/resize-observer/
+Using the HTML5 Drag and Drop API,"Sep 30, 2010",https://web.dev/drag-and-drop/
+Read files in JavaScript,"Jun 18, 2010",https://web.dev/read-files/
