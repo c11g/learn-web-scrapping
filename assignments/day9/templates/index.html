@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="https://andybrewer.github.io/mvp/mvp.css" rel="stylesheet"></link>
+  <!-- error 방지를 위한 임시 favicon -->
+  <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+</head>
+
+<body>
+  <header>
+    <h1>Nomad News</h1>
+    <div>
+      Order by:
+      {% if order_by == 'new' %}
+      <a href="/?order_by=popular">Popular</a>
+      | <strong>New</strong>
+      {% else %}
+      <strong>Popular</strong>
+      | <a href="/?order_by=new">New</a>
+      {% endif %}
+    </div>
+  </header>
+
+  <main>
+    {% for news in news_list %}
+    <div>
+      <div>
+        <a href="{{news.id}}">
+          <h3>{{news.title}}</h3>
+        </a>
+        (<a href="{{news.url}}" target="_blanl">{{news.url}}</a>)
+      </div>
+      <div>
+          {{news.points}} points | By: {{news.author}} | {{news.num_comments}} comments
+      </div>
+    </div>
+    <hr>
+    {% endfor %}
+  </main>
+</body>
+
+</html>
