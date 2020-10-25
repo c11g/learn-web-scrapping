@@ -22,6 +22,8 @@ def main():
 @app.route('/search')
 def search():
   term = request.args.get('term').lower()
+  if not term:
+    return redirect("/")
   fromDb = db.get(term)
   if fromDb:
     so_list = fromDb
